@@ -1,2 +1,2 @@
 # Poly-Vigil
-This is a web application designed as a business management system. 
+This is a web application designed to help with watching over 3D printers. 
